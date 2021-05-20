@@ -24,7 +24,7 @@
 
 <a href="https://instagram.com/sayyed_faixal" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="sayyed_faixal" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="faisalit" height="30" width="40" /></a> 
+<a href="https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="faisalit" height="60" width="60" /></a> 
   
 
 </p>
