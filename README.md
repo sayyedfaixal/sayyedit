@@ -1,3 +1,5 @@
+## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<div class="tenor-gif-embed" data-postid="21156226" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/pixels-neon-old-80s-hacker-gif-21156226">Pixels Neon GIF</a> from <a href="https://tenor.com/search/pixels-gifs">Pixels GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
 
