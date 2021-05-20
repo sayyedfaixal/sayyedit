@@ -16,7 +16,7 @@
 - 💬 Ask me about **Chatbots, Web development**
 
 - 📫 How to reach me **mohammadfaisal.sayed1999@gmail.com**
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sayyed_faixal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="sayyed_faixal" height="30" width="40" /></a>
@@ -24,8 +24,17 @@
 
 <a href="https://instagram.com/sayyed_faixal" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="sayyed_faixal" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="faisalit" height="60" width="60" /></a> 
+<a href="https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="faisalit" height="60" width="60" /></a>  -->
   
+## 📬 Contact me: 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashharshaikh/)](https://www.linkedin.com/in/ashharshaikh/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ashharr/)](https://instagram.com/ashharr)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shaikh.ashhar6@gmail.com)](mailto:shaikh.ashhar6@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ashharr)](https://www.github.com/ashharr)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/notashhar)](https://www.twitter.com/notashhar)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=github&logoColor=white&link=https://www.hackerrank.com/ashharr)](https://www.hackerrank.com/ashharr)  
+My Website: [ashharr.github.io](https://ashharr.github.io)
 
 </p>
 </p>
