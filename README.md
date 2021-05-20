@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## <img src="https://github.com/sayyedit/sayyedit/blob/main/code.gif" width="30px">
 
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
