@@ -34,7 +34,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/ashharr)](https://github.com/sayyedit/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/sayyed_faixal)](https://www.twitter.com/sayyed_faixal)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=github&logoColor=white&link=https://www.hackerrank.com/faisalit)](https://www.hackerrank.com/faisalit)  
-<!-- My Website: [ashharr.github.io](https://ashharr.github.io) -->
+<!-- My Website: [faisal.github.io](https://faisal.github.io) -->
 
 </p>
 </p>
