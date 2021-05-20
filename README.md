@@ -1,4 +1,4 @@
-## <img align="center" src="https://github.com/sayyedit/sayyedit/blob/main/code.gif" align="center" >
+## <img padding-left ="20px" src="https://github.com/sayyedit/sayyedit/blob/main/code.gif" >
 
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
 <h3 align="center">A passionate frontend developer from Mumbai, India</h3>
