@@ -11,6 +11,10 @@
 
 - 🌱 I’m currently learning **MERN stack, Data Analysis**
 
+- 👨‍💻 All of my projects are available at [https://github.com/sayyedit/](https://github.com/sayyedit/)
+
+- 💬 Ask me about **Chatbots, Web development**
+
 - 📫 How to reach me **mohammadfaisal.sayed1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sayyedfaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayyedfaisal" height="30" width="40" /></a>
 <a href="https://fb.com/sayyed.faisal.5220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="sayyed.faisal.5220/" height="30" width="40" /></a>
 <a href="https://instagram.com/sayyed_faixal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="sayyed_faixal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/faisalit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/faisalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="faisalit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
