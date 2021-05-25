@@ -19,7 +19,7 @@ Currently, a CSE undergrad at MHSSCOE
  
 - 🎹When I am bored I remix **Music**
  
-- 🗺️ Exploring - **Stock market, DevOps**
+- 🗺️ Exploring - **Hacking, Stock market, DevOps**
  
 - 📫 Reach me **mohammadfaisal.sayed1999@gmail.com**
 <!-- 
