@@ -9,15 +9,19 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/sayyed_faixal" target="blank"><img src="https://img.shields.io/twitter/follow/sayyed_faixal?logo=twitter&style=for-the-badge" alt="sayyed_faixal" /></a> </p> -->
 
-- 🔭 I’m currently working on **Khidmatgar Foundation**
+Currently, a CSE undergrad at MHSSCOE
 
-- 🌱 I’m currently learning **MERN stack, Data Analysis**
+- 🚧 Developing website for **Khidmatgar Foundation**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sayyedit/](https://github.com/sayyedit/)
-
+- 🌱 I’m currently learning **MERN stack**
+ 
 - 💬 Ask me about **Chatbots, Web development**
-
-- 📫 How to reach me **mohammadfaisal.sayed1999@gmail.com**
+ 
+- 🎹When I am bored I remix **Music**
+ 
+- 🗺️ Exploring - **Stock market, DevOps**
+ 
+- 📫 Reach me **mohammadfaisal.sayed1999@gmail.com**
 <!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
