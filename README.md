@@ -1,7 +1,7 @@
 ## <img padding-left ="120px" src="https://github.com/sayyedit/sayyedit/blob/main/code.gif" >
 
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
-<h3 align="center">A passionate frontend developer from Mumbai, India</h3>
+<h3 align="center">A passionate Developer from Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedit&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedit" /> </p>
 
