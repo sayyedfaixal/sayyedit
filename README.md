@@ -11,8 +11,6 @@
 
 Currently, a CSE undergrad at MHSSCOE
 
-- 🚧 Developing website for **Khidmatgar Foundation**
-
 - 🌱 I’m currently learning **MERN stack**
  
 - 💬 Ask me about **Chatbots, Web development**
