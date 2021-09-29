@@ -11,7 +11,7 @@
 
 Currently, a CSE undergrad at MHSSCOE
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Currently learning **MERN stack**
  
 - 💬 Ask me about **Chatbots, Web development**
  
