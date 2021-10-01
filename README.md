@@ -15,7 +15,7 @@ Currently, a CSE undergrad at MHSSCOE
  
 - 💬 Ask me about **Chatbots, Web development**
  
-- 🎹When I am bored I remix **Music**
+- 🎹 Making **Music** in my free time
  
 - 🗺️ Exploring - **Hacking, Stock market, DevOps**
  
