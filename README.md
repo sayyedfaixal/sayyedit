@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
 <h3 align="center">A passionate Developer from Mumbai, India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayyedit&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedit" /> </p>
+<p align="center"> <img src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif" alt="sayyedit" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedit" alt="sayyedit" /></a> </p> -->
 
