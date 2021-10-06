@@ -1,4 +1,4 @@
-## <img padding-left ="120px" src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif" >
+## <img padding-left ="120px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" >
 
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
 <h3 align="center">A passionate Developer from Mumbai, India</h3>
