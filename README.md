@@ -10,8 +10,6 @@
 <!-- <p align="left"> <a href="https://twitter.com/sayyed_faixal" target="blank"><img src="https://img.shields.io/twitter/follow/sayyed_faixal?logo=twitter&style=for-the-badge" alt="sayyed_faixal" /></a> </p> -->
 
 Currently, a CSE undergrad at MHSSCOE
-
-- 🌱 Currently learning **MERN stack**
  
 - 💬 Ask me about **Chatbots, Web development**
  
