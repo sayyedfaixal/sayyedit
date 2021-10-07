@@ -1,7 +1,7 @@
 ## <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width = 50% align-items: center>
 
 <h1 align="center">Hi 👋, I'm Faisal Sayed</h1>
-<h3 align="center">A passionate Developer from Mumbai, India</h3>
+
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyedit" alt="sayyedit" /></a> </p> -->
